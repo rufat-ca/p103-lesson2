@@ -1,1 +1,3 @@
-yeni branch duzelish edildi
+
+master branch-dan duzelish edildi
+
